@@ -1,5 +1,3 @@
-# PROG6221_POE_PART-3
-
 # Cybersecurity Chatbot – Part 3
 
 ## Student Information
